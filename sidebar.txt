@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tsd:home|Door43 (tsd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tsd|d43-tsd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tsd/archive/master.zip|d43-tsd.zip]]
+
+**Recent Changes**
+{{changes>ns = tsd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tsd|Ethnologue data]]
+
